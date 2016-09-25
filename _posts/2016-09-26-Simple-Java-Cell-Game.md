@@ -28,4 +28,4 @@ Here is a peak of the outcome we'll be designing (of course, you should use an a
 ---
 Now to the fun part, before building, we should always have a plan, an algorithm we'll follow to accomplish the task.
 
-This design uses a <code>JButton</code>
+This design uses a <code class="highlighter-rouge">JButton</code>

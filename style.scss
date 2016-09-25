@@ -288,6 +288,11 @@ footer {
  padding: 20px;
  width: 100%;
  height: auto;
+ color: #ffffff;
+}
+
+.code .keyword {
+ color: #ff0000;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

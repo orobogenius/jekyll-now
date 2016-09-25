@@ -11,8 +11,8 @@ The game is : Creating a 9 cells box 3x3 (Grid), each box should light up random
 
 Here is a peak of the outcome we'll be designing (of course, you should use an alternate design in yours).
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Game1.png "In Action")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Game2.png "Game Over")
+![alt text](https://github.com/orobogenius/orobogenius.github.io/blob/master/images/Game1.png "In Action")
+![alt text](https://github.com/orobogenius/orobogenius.github.io/blob/master/images/Game2.png "Game Over")
 
 ## Setup
 ---

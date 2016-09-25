@@ -1,10 +1,31 @@
 ---
 layout: post
-title: You're up and running!
+title: Simple Cell Game (Java) - Beginner
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We'll be designing a simple game in Java (using Swing), nothing too complicated or fancy. Of course, at the end of this post you could tweak the game and add new features or even change the entire layout, as a matter of fact, it's what I would expect.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## The Game
+---
+The game is : Creating a 9 cells box 3x3 (Grid), each box should light up randomly at intervals (preferably with different colours), if the user is able to click on the lightened box before another box lights up he gets +1 points otherwise he loses a life and he has total of 3 lives.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Here is a peak of the outcome we'll be designing (of course, you should use an alternate design in yours).
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Game1.png "In Action")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Game2.png "Game Over")
+
+## Setup
+---
+* IDE - Netbeans
+* Layout - Mixed (GridBagLayout, GridLayout)
+
+## Requirement
+---
+* Basic Java Knowledge
+* Basic Java Swing Knowledge
+
+## Action
+---
+Now to the fun part, before building, we should always have a plan, an algorithm we'll follow to accomplish the task.
+
+This design uses a 

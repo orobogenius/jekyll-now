@@ -30,11 +30,11 @@ Now to the fun part, before building, we should always have a plan, an algorithm
 
 This design uses a `JButton`
 
-<p class="code">
+```Java
 content = <span class="keyword">new</span> JPanel(<span class="keyword">new</span> GridBagLayout());
 
 cells = <span class="keyword">new</span> JPanel(<span class="keyword">new</span> GridLayout(3, 3));
 
 JPanel sidePanel = <span class="keyword">new</span> JPanel(<span class="keyword">new</span> GridBagLayout());
 JPanel buttonPanel = <span class="keyword">new</span> JPanel(<span class="keyword">new</span> GridBagLayout());
-</p>
+```

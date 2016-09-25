@@ -28,11 +28,5 @@ Here is a peak of the outcome we'll be designing (of course, you should use an a
 ---
 Now to the fun part, before building, we should always have a plan, an algorithm we'll follow to accomplish the task.
 
-This design uses a `JButton`
-
-```java
-content = new JPanel(new GridBagLayout());
-cells = new JPanel(new GridLayout(3, 3));
-JPanel sidePanel = new JPanel(new GridBagLayout());
-JPanel buttonPanel = new JPanel(new GridBagLayout());
-```
+This design uses a `JButton` that controls the flow of the game (start and stop). First, when the game is started, there ar a few thing we should do:
+* We create and start a timer task. If you'r not familiar with timer tasks
